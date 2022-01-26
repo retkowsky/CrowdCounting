@@ -6,6 +6,8 @@ Statistics of people counted can be produced to provide insights.
 There are many ways to do it. In this python notebook we will use a predefined RetinaNet model that can detect up to 80 standard objects. 
 Results will be saved into an Azure ML experiment.
 
+<img src="example.jpg">
+
 26-Jan-2022
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
